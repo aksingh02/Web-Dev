@@ -1,0 +1,13 @@
+h1, h2{
+    text-align: center;
+}
+body{
+    background-color: #f88b9b;
+}
+div{
+    width: auto;
+    height: 100px;
+}
+span{
+    font-weight: bold;
+}
